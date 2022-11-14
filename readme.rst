@@ -15,4 +15,4 @@ This application is currently in development and is not ready for production. It
 Acknowledgement
 ***************
 
-This application is built using the Codeigniter framework by Dennis Otieno and Karimi Yvonne. The Codeigniter framework is licensed under the MIT license.
+This application is built using the Codeigniter framework by Dennis Otieno, Dianah Nyamweya and Karimi Yvonne. The Codeigniter framework is licensed under the MIT license.
